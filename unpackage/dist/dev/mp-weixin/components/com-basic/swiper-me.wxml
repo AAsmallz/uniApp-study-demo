@@ -1,0 +1,1 @@
+<view class="swiper-container"><view class="_h3">{{title}}</view><swiper indicator-dots="{{true}}"><swiper-item><view class="swiper-item1">1</view></swiper-item><swiper-item><view class="swiper-item2">2</view></swiper-item><swiper-item><view class="swiper-item3">3</view></swiper-item></swiper></view>

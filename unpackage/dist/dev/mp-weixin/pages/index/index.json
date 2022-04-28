@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "uni-calendar": "/uni_modules/uni-calendar/components/uni-calendar/uni-calendar",
+    "scroll-me": "/components/com-basic/scroll-me",
+    "swiper-me": "/components/com-basic/swiper-me"
+  }
+}

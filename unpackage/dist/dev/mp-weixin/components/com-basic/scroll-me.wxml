@@ -1,0 +1,1 @@
+<view class="scroll-container"><view class="_h3">{{title}}</view><scroll-view class="scroll-wrap" scroll-x="{{true}}" data-event-opts="{{[['tap',[['onChange',['$event']]]]]}}" bindtap="__e"><view class="scroll-item">1</view><view class="scroll-item">2</view><view class="scroll-item">3</view><view class="scroll-item">4</view></scroll-view></view>
